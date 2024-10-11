@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(163, 216, 212);
+}
+header#cabecalho h1 {
+    font-size: 40px;
+    color: #daa4c1;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+
+}
+section#corpo h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+#minha-imagem {
+    width: 200px;
+    height: 200px;
+    border-radius: 80%;
+} 
+li#projeto1 {
+    background: url(imagens/Captura\ de\ tela\ 2024-10-11\ 144843.jpg) no-repeat;
+    background-position: 30% 30%;
+    background-size: contain;
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+}
+li#projeto1:hover {
+    background-position: 0% 0%;
+    width: 500px;
+    height: 500px;
+}
+li#projeto1:hover span {
+    opacity: 1;
+}
+#especializacoes {
+    border-radius: 10%;
+    border-style: groove;
+}
+img#especializacoes {
+    width: 350px;
+}
+ul p {
+    display: inline-block;
+    margin: 10px; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120% !important;
+    font-style: oblique;
+    font-weight: bold;
+  }
+ul p:nth-child(even) {
+    clear: both;
+  }
+#interface {
+    width: 800px;
+    margin: -20px 10px 10px 10px;
+}
+section#corpo {
+    display: block;
+    float: left;
+}
+aside#lateral {
+    display: block;
+    float: right;
+    width: 600px;
+    position: relative;
+    top: -550px;
+    background-color: #daa4c1;
+    border-radius: 4%;
+    padding: 10px;
+}
+#lateral h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 120%;
+}
+#lateral p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 110%;
+}
+footer{
+    clear: both;
+    text-align: center;
+    position: relative;
+    margin: -50px 10px 10px 10px;
+}

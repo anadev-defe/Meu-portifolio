@@ -1,1 +1,1 @@
-Esse é o projeto do meu portifólio, onde irei dar detalhes sobre mim, sobre minhas experiências e evolução proficional, e sobre meus planos para o futuro como programadora.
+Esse é o projeto do meu portifólio, onde irei dar detalhes sobre mim, sobre minhas experiências e evolução profissional, e sobre meus planos para o futuro como programadora.
